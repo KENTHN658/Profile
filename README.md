@@ -15,4 +15,4 @@ I'm a software developer dedicated to continuous learning and building functiona
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KENTHN658&theme=rose_pine&no-frame=true&no-bg=false&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># Profile
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
